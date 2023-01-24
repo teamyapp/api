@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-param",
+  "version": "0.0.1",
+  "author": "Teamy",
+  "description": "Insomnia plugin to use request parameters from Query tab",
+  "main": "index.js",
+  "insomnia": {
+    "name": "param",
+    "displayName": "Parameter plugin",
+    "publisher": {
+        "name": "Teamy"
+    }
+  }
+}
